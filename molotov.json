@@ -1,6 +1,7 @@
 {
     "molotov": {
         "requirements": "requirements.txt",
+        "tests": {
             "dogdriver": {
                 "duration": 300,
                 "processes": 3,
@@ -9,4 +10,5 @@
                 "console": true
             }
         }
+    }
 }
