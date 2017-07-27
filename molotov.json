@@ -1,6 +1,9 @@
 {
     "molotov": {
         "requirements": "requirements.txt",
+        "env": {
+            "URL_SERVER": "https://shavar.stage.mozaws.net"
+        },
         "tests": {
             "dogdriver": {
                 "duration": 300,
