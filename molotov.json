@@ -8,7 +8,7 @@
             "dogdriver": {
                 "duration": 300,
                 "processes": 3,
-                "workers": 150,
+                "workers": 250,
                 "scenario": "loadtest.py",
                 "console": true
             }
