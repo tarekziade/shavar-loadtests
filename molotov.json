@@ -11,7 +11,8 @@
             },
             "sizer": {
                 "sizing": true,
-                "scenario": "loadtest.py"
+                "scenario": "loadtest.py",
+                "verbose": true
             }
         }
     }
