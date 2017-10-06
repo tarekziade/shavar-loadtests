@@ -11,6 +11,10 @@
                 "workers": 250,
                 "scenario": "loadtest.py",
                 "console": true
+            },
+            "sizer": {
+                "sizing": true,
+                "scenario": "loadtest.py"
             }
         }
     }
